@@ -114,13 +114,16 @@ Do not assume that messages, voice communications, or device discovery are encry
 
 ## ❓ Frequently Asked Questions
 
+## ❓ Frequently Asked Questions
+
 ### Is SonicMash available on Google Play?
 
-This GitHub project provides a way to distribute the Android APK. Google Play availability will depend on whether an official Play Store release has been published.
+No.
 
 ### Is SonicMash free?
 
-Check the repository's release notes for the current distribution and usage terms.
+Yes, it's fully free.
+
 
 ### Does SonicMash work on every Android phone?
 
